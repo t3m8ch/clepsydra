@@ -10,7 +10,7 @@ this_directory = path.abspath(path.dirname(__file__))
 setup(
     name='clepsydra',
     description='Liquid scheduler for python',
-    version='0.1a1',
+    version='0.1a2',
     url='https://github.com/tishka17/clepsydra',
     author='A. Tikhonov',
     author_email='17@itishka.org',
